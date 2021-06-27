@@ -17,5 +17,6 @@ We made the FB15K237-Refined from FB15K237 and WN18RR-Refined from WN18RR by our
 <!-- |TransH	|0.512	|0.476|0.501|0.486|| -->
 <!-- |TransD	|0.512	|0.476|0.501|0.486|| -->
 <!-- |RotatE	|0.512	|0.476|0.501|0.486|| -->
-
+completing table ...
 ## section 4 : Citations
+soon
