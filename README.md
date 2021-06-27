@@ -1,6 +1,6 @@
 # Comming Soon
 # section 1 : KGRefiner
 
-# section 2 : reproducing papers results
+# section 2 : Reproducing paper's results
 
-# section 3 : citations
+# section 3 : Citations
