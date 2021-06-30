@@ -19,4 +19,13 @@ We made the FB15K237-Refined from FB15K237 and WN18RR-Refined from WN18RR by our
 <!-- |RotatE	|0.512	|0.476|0.501|0.486|| -->
 completing table ...
 ## section 4 : Citations
-soon
+```
+@misc{saeedizade2021kgrefiner,
+      title={KGRefiner: Knowledge Graph Refinement for Improving Accuracy of Translational Link Prediction Methods}, 
+      author={Mohammad Javad Saeedizade and Najmeh Torabian and Behrouz Minaei-Bidgoli},
+      year={2021},
+      eprint={2106.14233},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL}
+}
+```
