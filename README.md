@@ -183,12 +183,10 @@ completing codes (notebooks) for table is still on going.
 ## section 4 : Citations
 
 ```
-@misc{saeedizade2021kgrefiner,
-      title={KGRefiner: Knowledge Graph Refinement for Improving Accuracy of Translational Link Prediction Methods}, 
-      author={Mohammad Javad Saeedizade and Najmeh Torabian and Behrouz Minaei-Bidgoli},
-      year={2021},
-      eprint={2106.14233},
-      archivePrefix={arXiv},
-      primaryClass={cs.CL}
+@article{saeedizade2021kgrefiner,
+  title={KGRefiner: Knowledge Graph Refinement for Improving Accuracy of Translational Link Prediction Methods},
+  author={Saeedizade, Mohammad Javad and Torabian, Najmeh and Minaei-Bidgoli, Behrouz},
+  journal={arXiv preprint arXiv:2106.14233},
+  year={2021}
 }
 ```
