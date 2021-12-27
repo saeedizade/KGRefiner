@@ -107,8 +107,77 @@ We made the FB15K237-Refined from FB15K237 and WN18RR-Refined from WN18RR by our
 </tbody>
 </table>
 
-
-completing table ...
+### Section 3.2 : WN18RR
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-0pky">Base Line</th>
+    <th class="tg-0pky">H@10</th>
+    <th class="tg-0pky">MR</th>
+    <th class="tg-0pky">MRR</th>
+    <th class="tg-0pky">Link for reproduction</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-0pky">TransE</td>
+    <td class="tg-0pky">50.1</td>
+    <td class="tg-0pky">3384</td>
+    <td class="tg-0pky">22.6</td>
+    <td class="tg-0pky"><a href="https://www.aclweb.org/anthology/N18-2053.pdf">(Nguyen et al</a></td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">TransE + KGRefiner</td>
+    <td class="tg-0pky">53.7</td>
+    <td class="tg-0pky">1125</td>
+    <td class="tg-0pky">22.2</td>
+    <td class="tg-0pky"><a href="#">Notebook</a></td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">TransH</td>
+    <td class="tg-0pky">42.4</td>
+    <td class="tg-0pky">5875</td>
+    <td class="tg-0pky">18.6</td>
+    <td class="tg-0pky"><a href="https://www.aclweb.org/anthology/D18-1358.pdf">HRS paper</a></td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">TransH + KGRefiner</td>
+    <td class="tg-0pky">51.4</td>
+    <td class="tg-0pky">1534</td>
+    <td class="tg-0pky">20.8</td>
+    <td class="tg-0pky"><a href="#">Notebook</a></td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">TransD</td>
+    <td class="tg-0pky">42.8</td>
+    <td class="tg-u0o7">5482</td>
+    <td class="tg-0pky">18.5</td>
+    <td class="tg-0pky"><a href="https://www.aclweb.org/anthology/D18-1358.pdf">HRS paper</a></td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">TransD + KGRefiner</td>
+    <td class="tg-0pky">52.3</td>
+    <td class="tg-0pky">1348</td>
+    <td class="tg-0pky">21.4</td>
+    <td class="tg-0pky"><a href="#">Notebook</a></td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">RotatE</td>
+    <td class="tg-0pky">54.7</td>
+    <td class="tg-0pky">4274</td>
+    <td class="tg-0pky">47.3</td>
+    <td class="tg-0pky"><a href="https://www.aclweb.org/anthology/D18-2024.pdf">OpenKE paper</a></td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">RotatE + KGRefiner</td>
+    <td class="tg-u0o7">57.0</td>
+    <td class="tg-0pky">683</td>
+    <td class="tg-u0o7">44.8</td>
+    <td class="tg-0pky"><a href="#">Notebook</a></td>
+  </tr>
+</tbody>
+</table>
+completing codes (notebooks) for table is still on going.
 ## section 4 : Citations
 ```
 @misc{saeedizade2021kgrefiner,
