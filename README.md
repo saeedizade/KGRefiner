@@ -32,14 +32,14 @@ We made the FB15K237-Refined from FB15K237 and WN18RR-Refined from WN18RR by our
     <td class="tg-0pky">47.6</td>
     <td class="tg-0pky">221</td>
     <td class="tg-0pky">28.8</td>
-    <td class="tg-0pky"><a href="#">Notebook</a></td>
+    <td class="tg-0pky">Notebook</td>
   </tr>
   <tr>
     <td class="tg-0pky">TransE + KGRefiner</td>
     <td class="tg-0pky">47</td>
     <td class="tg-0pky">203</td>
     <td class="tg-0pky">29.1</td>
-    <td class="tg-0pky"><a href="#">Notebook</a></td>
+    <td class="tg-0pky">Notebook</td>
   </tr>
   <tr>
     <td class="tg-0pky">TransD</td>
@@ -53,35 +53,35 @@ We made the FB15K237-Refined from FB15K237 and WN18RR-Refined from WN18RR by our
     <td class="tg-0pky">48.2</td>
     <td class="tg-0pky">227</td>
     <td class="tg-0pky">28.5</td>
-    <td class="tg-0pky"><a href="#">Notebook</a></td>
+    <td class="tg-0pky">Notebook</td>
   </tr>
   <tr>
     <td class="tg-0pky">TransD + KGRefiner</td>
     <td class="tg-0pky">43.7</td>
     <td class="tg-0pky">227</td>
     <td class="tg-0pky">24</td>
-    <td class="tg-0pky"><a href="#">Notebook</a></td>
+    <td class="tg-0pky">Notebook</td>
   </tr>
   <tr>
     <td class="tg-0pky">RotatE</td>
     <td class="tg-0pky">47.4</td>
     <td class="tg-u0o7"><b>185</b></td>
     <td class="tg-0pky">29.7</td>
-    <td class="tg-0pky"><a href="#">Notebook</a></td>
+    <td class="tg-0pky">Notebook</td>
   </tr>
   <tr>
     <td class="tg-0pky">RotatE + Shang et al </td>
     <td class="tg-0pky">43.8</td>
     <td class="tg-0pky">218</td>
     <td class="tg-0pky">27.3</td>
-    <td class="tg-0pky"><a href="#">Notebook</a></td>
+    <td class="tg-0pky">Notebook</td>
   </tr>
   <tr>
     <td class="tg-0pky">RotatE + KGRefiner</td>
     <td class="tg-0pky">43.9</td>
     <td class="tg-0pky">226</td>
     <td class="tg-0pky">27.9</td>
-    <td class="tg-0pky"><a href="#">Notebook</a></td>
+    <td class="tg-0pky">Notebook</td>
   </tr>
   <tr>
     <td class="tg-0pky">TransH</td>
@@ -95,14 +95,14 @@ We made the FB15K237-Refined from FB15K237 and WN18RR-Refined from WN18RR by our
     <td class="tg-0pky">47.7</td>
     <td class="tg-0pky">237</td>
     <td class="tg-0pky">28.2</td>
-    <td class="tg-0pky"><a href="#">Notebook</a></td>
+    <td class="tg-0pky">Notebook</td>
   </tr>
   <tr>
     <td class="tg-0pky">TransH + KGRefiner</td>
     <td class="tg-u0o7"><b>48.9</b></td>
     <td class="tg-0pky">221</td>
     <td class="tg-0pky"><b>30.2</b></td>
-    <td class="tg-0pky"><a href="#">Notebook</a></td>
+    <td class="tg-0pky">Notebook</td>
   </tr>
 </tbody>
 </table>
@@ -124,14 +124,14 @@ We made the FB15K237-Refined from FB15K237 and WN18RR-Refined from WN18RR by our
     <td class="tg-0pky">50.1</td>
     <td class="tg-0pky">3384</td>
     <td class="tg-0pky">22.6</td>
-    <td class="tg-0pky"><a href="https://www.aclweb.org/anthology/N18-2053.pdf">(Nguyen et al</a></td>
+    <td class="tg-0pky"><a href="https://www.aclweb.org/anthology/N18-2053.pdf">Nguyen et al</a></td>
   </tr>
   <tr>
     <td class="tg-0pky">TransE + KGRefiner</td>
     <td class="tg-0pky">53.7</td>
     <td class="tg-0pky">1125</td>
     <td class="tg-0pky">22.2</td>
-    <td class="tg-0pky"><a href="#">Notebook</a></td>
+    <td class="tg-0pky">Notebook</td>
   </tr>
   <tr>
     <td class="tg-0pky">TransH</td>
@@ -145,7 +145,7 @@ We made the FB15K237-Refined from FB15K237 and WN18RR-Refined from WN18RR by our
     <td class="tg-0pky">51.4</td>
     <td class="tg-0pky">1534</td>
     <td class="tg-0pky">20.8</td>
-    <td class="tg-0pky"><a style="color: hotpink;" href="#">Notebook</a></td>
+    <td class="tg-0pky">Notebook</td>
   </tr>
   <tr>
     <td class="tg-0pky">TransD</td>
@@ -159,7 +159,7 @@ We made the FB15K237-Refined from FB15K237 and WN18RR-Refined from WN18RR by our
     <td class="tg-0pky">52.3</td>
     <td class="tg-0pky">1348</td>
     <td class="tg-0pky">21.4</td>
-    <td class="tg-0pky"><a href="#">Notebook</a></td>
+    <td class="tg-0pky">Notebook</td>
   </tr>
   <tr>
     <td class="tg-0pky">RotatE</td>
@@ -173,10 +173,11 @@ We made the FB15K237-Refined from FB15K237 and WN18RR-Refined from WN18RR by our
     <td class="tg-u0o7">57.0</td>
     <td class="tg-0pky">683</td>
     <td class="tg-u0o7">44.8</td>
-    <td class="tg-0pky"><a href="#">Notebook</a></td>
+    <td class="tg-0pky">Notebook</td>
   </tr>
 </tbody>
 </table>
+
 completing codes (notebooks) for table is still on going.
 
 ## section 4 : Citations
