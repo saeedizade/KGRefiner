@@ -145,7 +145,7 @@ We made the FB15K237-Refined from FB15K237 and WN18RR-Refined from WN18RR by our
     <td class="tg-0pky">51.4</td>
     <td class="tg-0pky">1534</td>
     <td class="tg-0pky">20.8</td>
-    <td class="tg-0pky"><a href="#">Notebook</a></td>
+    <td class="tg-0pky"><a style="color: hotpink;" href="#">Notebook</a></td>
   </tr>
   <tr>
     <td class="tg-0pky">TransD</td>
@@ -178,7 +178,9 @@ We made the FB15K237-Refined from FB15K237 and WN18RR-Refined from WN18RR by our
 </tbody>
 </table>
 completing codes (notebooks) for table is still on going.
+
 ## section 4 : Citations
+
 ```
 @misc{saeedizade2021kgrefiner,
       title={KGRefiner: Knowledge Graph Refinement for Improving Accuracy of Translational Link Prediction Methods}, 
