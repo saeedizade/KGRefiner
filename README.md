@@ -1,6 +1,6 @@
 # KGRefiner
 An Open-source Framework for Knowledge Graph Refinement. <br>
-If you use the code, please cite the following paper: <br>
+The Paper:
 KGRefiner: Knowledge Graph Refinement for Improving Accuracy of Translational Link Prediction Methods
 ## Section 1 : KGRefiner
 Code will be coming soon. 
