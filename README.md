@@ -180,7 +180,7 @@ We made the FB15K237-Refined from FB15K237 and WN18RR-Refined from WN18RR by our
 
 completing codes (notebooks) for table is still on going.
 
-## section 4 : Citations
+<!-- ## section 4 : Citations
 
 ```
 @article{saeedizade2021kgrefiner,
@@ -189,4 +189,4 @@ completing codes (notebooks) for table is still on going.
   journal={arXiv preprint arXiv:2106.14233},
   year={2021}
 }
-```
+``` -->
